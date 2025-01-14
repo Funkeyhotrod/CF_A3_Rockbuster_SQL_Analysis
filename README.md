@@ -3,6 +3,6 @@ For my third achievement in CareerFoundry’s data analysis course, I’ve been 
 ## Objective
 The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy.
 ## Data
-As this is a made up company, all of the data was provided by CareerFoundry.
+As this is a made up company, all of the data was provided by CareerFoundry here.
 ## Procedure
 I imported the data into SQL and started analysing it from there.
